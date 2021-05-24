@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:garcia/paginas_tabs/pagina1.dart';
-import 'package:garcia/paginas_tabs/pagina2.dart';
-import 'package:garcia/paginas_tabs/pagina3.dart';
+import 'package:garcia/paginas/pagina1.dart';
+import 'package:garcia/paginas/pagina2.dart';
+import 'package:garcia/paginas/pagina3.dart';
 
 void main() {
   runApp(MaterialApp(
