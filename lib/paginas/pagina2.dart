@@ -17,7 +17,7 @@ class SegundoTab extends StatelessWidget {
                 color: Colors.white,
               ),
               Text(
-                "Tab de Descargas",
+                "Segunda tab",
                 style: TextStyle(color: Colors.white),
               )
             ],

@@ -17,7 +17,7 @@ class TercerTab extends StatelessWidget {
                 color: Colors.white,
               ),
               Text(
-                "Tab de Perfil",
+                "Tercera tab",
                 style: TextStyle(color: Colors.white),
               )
             ],
